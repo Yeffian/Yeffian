@@ -5,4 +5,4 @@
 <p>I like computer graphics and game engine dev 😄</p>
 <p>I know alot of languages, but only know a small amount of them well</p>
 
-[!YeffyCodeGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeffycodegit)](https://github.com/anuraghazra/github-readme-stats)
+![YeffyCodeGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeffycodegit)](https://github.com/anuraghazra/github-readme-stats)
