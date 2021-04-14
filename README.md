@@ -7,4 +7,4 @@
   <li>I know alot of languages, but only know a small amount of them well</li>
 </ul>
 
-![YeffyCodeGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeffycodegit)]
+![YeffyCodeGit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeffycodegit)
