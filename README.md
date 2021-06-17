@@ -86,10 +86,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7righ30w8eojvznm3fuo9yglm&cover_image=true&theme=compact" /></div>  
@@ -107,4 +103,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">If you wanna make a readme like this, check out <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
