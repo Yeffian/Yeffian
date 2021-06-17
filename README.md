@@ -31,10 +31,6 @@ Im a random kid who found programming cool, and now im trying to not be garbage 
 
 
 </td><td valign="top" width="50%">
-
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="10" width="" />  
-
-
 </td></tr></table>  
 
 <br/>  
@@ -73,21 +69,6 @@ Im a random kid who found programming cool, and now im trying to not be garbage 
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeffycodegit&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
