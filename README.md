@@ -6,16 +6,13 @@
 ### <div align="center">I'm Yeff,  a guy who likes to write code 🚀</div>  
   
 
--  🔭 I’m currently working on [pastemyst.java](https://github.com/YeffyCodeGit/pastemyst.java), a open-source api wrapper for the pastemyst api.    
+-  🔭 I’m currently working on [Orbital](https://github.com/OrbitalEngine/Orbital), a open-source game engine written in Java.
   
 
-- 🌱 I’m currently learning compiler design, web dev and Typescript  
-  
+- 🌱 I’m currently learning Kotlin.
 
-- ❓ Ask me about anything related to Java or Python  
-  
 
-- ⚡ Fun fact: I used to hate java, now its my favourite language!  
+- ⚡ Fun fact: I like writing stories, and playing chess!
   
 
 <br/>  
@@ -63,18 +60,6 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/yeffycodegit" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YeffyCodeGit&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
