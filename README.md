@@ -3,16 +3,25 @@
 </div>  
   
 
-# <div align="center">I'm Yeff</div>  
+# <div align="center">I'm Yeff!</div>  
 
-Hey! I am Yeff, a kid just trying to learn everything possible about the wonderful world of computer science! I am passionate about anything related to computers, chess, writing and linguistics! I am originally from Bangladesh, but currently I live in Malaysia. 
+Hey! :wave: I am Yeff, a kid just trying to learn everything possible about the wonderful world of computer science! I am passionate about anything related to computers, chess, writing and linguistics! I am originally from Bangladesh, but currently I live in Malaysia. I speak 3 languages fluently, and am learning many more!
 
 <br/>  
+
+## Some projects
+
+Some projects I have worked on include:
+- https://github.com/YeffyCodeGit/PotterAPI - API written using C# and ASP.NET to serve information about the Harry Potter series of books and movies
+- https://github.com/YeffyCodeGit/pastemyst.java - Java API wrapper for the https://paste.myst.rs/ API
+- https://github.com/YeffyCodeGit/Govid - Go library for providing statistics about the Covid 19 pandemic 
+- https://github.com/OrbitalEngine/Orbital - Java game engine focused on simplicity
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YeffyCodeGit&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+<br/>
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7righ30w8eojvznm3fuo9yglm&cover_image=true&theme=compact" /></div>  
 
