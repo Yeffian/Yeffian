@@ -17,6 +17,14 @@ Some projects I have worked on include:
 - https://github.com/YeffyCodeGit/Govid - Go library for providing statistics about the Covid 19 pandemic 
 - https://github.com/OrbitalEngine/Orbital - Java game engine focused on simplicity
 
+## Some achievements
+
+I have not participated in many competitons related to programming, but I do plan to participate in more and gain more experience! However, these are some things I have done, both programming and writing:
+
+- Gold Finalist Award, Queens Commonwealth Essay Competition C2022 - https://www.royalcwsociety.org/
+- Participated in the Harvard Crimson Global Essay Competition - https://www.essaycomp.org/what-is-hcgec
+- Participated in the KL Coding Cup 2022 
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YeffyCodeGit&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
