@@ -5,7 +5,7 @@
 
 # <div align="center">I'm Yeff!</div>  
 
-Hey! :wave: I am Yeff, a kid just trying to learn everything possible about the wonderful world of computer science! I am passionate about anything related to computers, chess, writing and linguistics! I am originally from Bangladesh, but currently I live in Malaysia. I speak 3 languages fluently, and am learning many more!
+Hey! :wave: I am Yeff, a kid just trying to learn everything possible about the wonderful world of computer science! I am passionate about anything related to computers, chess, writing and linguistics! I am originally from Bangladesh, but currently I live in Malaysia. I speak 3 languages fluently, and am learning many more! i know several languages to varying degrees, but the main ones I use are C# and Python, and I am also trying to learn Swift currently! 
 
 <br/>  
 
