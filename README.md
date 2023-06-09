@@ -3,19 +3,14 @@
 </div>  
   
 
-# <div align="center">I'm Yeff, a kid who wants to learn as much as possible about the wonderful world of computers and technology! 🚀</div>  
-  
-  
+# <div align="center">I'm Yeff</div>  
 
-<br/>  
-
+Hey! I am Yeff, a kid just trying to learn everything possible about the wonderful world of computer science! I am passionate about anything related to computers, chess, writing and linguistics! I am originally from Bangladesh, but currently I live in Malaysia. 
 
 <br/>  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YeffyCodeGit&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 <br/>  
 
