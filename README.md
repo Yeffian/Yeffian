@@ -26,7 +26,7 @@ I have not participated in many competitons related to programming, but I do pla
 - Participated in the KL Coding Cup 2022 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=YeffyCodeGit&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yeffian&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 <br/>
